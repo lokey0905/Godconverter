@@ -1,4 +1,4 @@
-# Godconverter
+# Godconverter 神的語言轉換器
 
 這個app是用appinvantor製作
 
