@@ -3,7 +3,7 @@
 # Godconverter 神的語言轉換器
 
 # 關於這專案
-這個專案原本使用[Appinvantor](https://appinventor.mit.edu/)網站製作，後來將專案轉移到Kodular。2022年，[Kodular](https://www.kodular.io/)開始收費並限制免費版本的功能，加上我沒有另外的時間維護，目前專案無限期暫停維護。
+這個專案原本使用[Appinvantor](https://appinventor.mit.edu/)網站製作，後來將專案轉移到Kodular。2022年，[Kodular](https://www.kodular.io/)開始收費並限制免費版本的功能，加上我沒有另外的時間維護，目前專案無限期暫停維護。(2022/12/3計畫啟動重製該項目並使用koltin)
 
 我是108新課綱第一屆，剛好學校教了Appinvantor，想到神的語言，所以利用課餘時間製作了這專案，也可放在學習歷程上，但是教授好像不是喜歡(可能是我學習歷程做太爛)，推甄都沒上學校，總之我覺得學習歷程沒啥用。
 
